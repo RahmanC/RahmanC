@@ -31,7 +31,9 @@ I am Abdulrahman Afaraetu, a graduate of Computer Science 👨🏽‍🎓 and re
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=ffffff)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=000000&color=238636&labelColor=FCC624)
 
-[![A B D U L R A H M A N's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RahmanC)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 Wakatime Stats
+
+[![A B D U L R A H M A N's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhammy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub Stats
 
