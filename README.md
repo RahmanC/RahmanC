@@ -33,10 +33,10 @@ I am Abdulrahman Afaraetu, a graduate of Computer Science 👨🏽‍🎓 and re
 
 <!-- [![A B D U L R A H M A N's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhammy)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<a href="https://github.com/RahmanC/RahmanC">
+<!-- <a href="https://github.com/RahmanC/RahmanC">
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanC&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<br><br>
+</a> -->
+<br>
 ## 📈 GitHub Stats
 
 ![A B D U L R A H M A N's Github Stats](https://github-readme-stats.vercel.app/api?username=rahmanC&theme=merko&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463)
