@@ -31,11 +31,14 @@ I am Abdulrahman Afaraetu, a graduate of Computer Science 👨🏽‍🎓 and re
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=ffffff)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=000000&color=238636&labelColor=FCC624)
 
-[![wakatime](https://wakatime.com/badge/user/49f0899f-07ec-44d7-854d-b6ce6d9db709.svg)](https://wakatime.com/@49f0899f-07ec-44d7-854d-b6ce6d9db709)
+<!-- [![wakatime](https://wakatime.com/badge/user/49f0899f-07ec-44d7-854d-b6ce6d9db709.svg)](https://wakatime.com/@49f0899f-07ec-44d7-854d-b6ce6d9db709) -->
 
 <!-- <a href="https://github.com/RahmanC/RahmanC">
   <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanC&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> -->
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhammy)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 ## 📈 GitHub Stats
 
