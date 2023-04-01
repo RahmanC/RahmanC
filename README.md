@@ -1,68 +1,49 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulrahman Afaraetu
+# Abdulrahman Afaraetu
 
-## Software Engineer
+[![Linkedin Badge](https://img.shields.io/badge/-abdulrahmanafaraetu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afaraetu94/)](https://www.linkedin.com/in/afaraetu94/)
+[![Twitter Badge](https://img.shields.io/badge/-Abd'rahman-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_rhammy)](https://twitter.com/_rhammy)
+[![Gmail Badge](https://img.shields.io/badge/-afaraeturahman@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afaraeturahman@gmail.com)](mailto:afaraeturahman@gmail.com)
 
-I am an Inventive, Creative and Enthusiastic Frontend Engineer with 3+ years utilizing web technologies to design and develop digital solutions for businesses. I am driven by the goal to always deliver top-notch products ensuring technologies help businesses achieve their goals.
+## Hi 👋🏽,
 
-- 🌍  I'm based in Lagos, Nigeria
-- 🖥️  See my portfolio at [Rhammy](http://rhammy.web.app)
-- ✉️  You can contact me at [Afaraeturahman@gmail.com](mailto:Afaraeturahman@gmail.com)
-- 🚀  I'm currently working on [Chatapp](http://chat-app.web.app)
-- 🧠  I'm learning Unit testing
-- 🤝  I'm open to collaborating on Projects<a href="https://www.github.com/rahmanc" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/rahmanc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-</p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.dev.to/rhammy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/rahmanc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://rhammy.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/afaraetu94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/rhammy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/_rhammy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/rahmanc"><img src="https://github-readme-stats.vercel.app/api?username=rahmanc&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rahmanc's GitHub stats" /></a>
-                      <a
-                      href="http://www.github.com/rahmanc"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanc&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-                  <a
-                      href="http://www.github.com/rahmanc"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rahmanc&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/rhammy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-                  </p>
+I am Abdulrahman Afaraetu, a graduate of Computer Science 👨🏽‍🎓 and results-oriented Front-end Developer who focuses on designing websites that are interactive, user-friendly, responsive, accessible, and feature-rich 👨🏽‍💻.
+
+- 🔭 I’m currently working with React JS 💚.
+- 🌱 Out of work, I delve into other technologies listed below and i'm quite proficient with them.
+- 💻👯 I’m always looking forward to work on awesome product(s) where I get to apply my skills as part of a fast-paced, quality-driven team.
+- ⚡ Fun fact: I love Video games, Soccer and I love travels and exploration ✈️.
+- 📫 Reach out to me via: [Gmail](mailto:afaraeturahman@gmail.com) or [LinkedIn](https://www.linkedin.com/in/afaraetu94/)
+
+## 🔧 Languages and Tools
+
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=238636&labelColor=61DAFB)
+![](https://img.shields.io/badge/Redux-informational?style=flat&logo=Redux&logoColor=white&color=238636&labelColor=764ABC)
+![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=339933&color=238636&labelColor=ffffff)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=47A248&color=238636&labelColor=000)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=ffffff&color=238636&labelColor=4479A1)
+![](https://img.shields.io/badge/WordPress-informational?style=flat&logo=wordpress&logoColor=06B6D4&color=238636&labelColor=FFFFFF)
+![](https://img.shields.io/badge/WebFlow-informational?style=flat&logo=webflow&logoColor=06B6D4&color=238636&labelColor=FFFFFF)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=ffffff&color=238636&labelColor=7952B3)
+![](https://img.shields.io/badge/SCSS-informational?style=flat&logo=sass&logoColor=C76494&color=238636&labelColor=FFFFFF)
+![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=ffffff&color=238636&labelColor=F05032)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=238636&labelColor=181717)
+![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=ffffff)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=000000&color=238636&labelColor=FCC624)
+
+<!-- [![wakatime](https://wakatime.com/badge/user/49f0899f-07ec-44d7-854d-b6ce6d9db709.svg)](https://wakatime.com/@49f0899f-07ec-44d7-854d-b6ce6d9db709) -->
+
+<!-- <a href="https://github.com/RahmanC/RahmanC">
+  <img height="235px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanC&hide=java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> -->
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rhammy)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<br>
+## 📈 GitHub Stats
+
+![A B D U L R A H M A N's Github Stats](https://github-readme-stats.vercel.app/api?username=rahmanC&theme=merko&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463)
+
+🥂 Yo!
+
+![Profile Views](https://gpvc.arturio.dev/rahmanC)
