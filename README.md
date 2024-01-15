@@ -6,11 +6,8 @@ Frontend Engineer
 
 I am an Inventive, Creative and Enthusiastic Frontend Engineer with 3+ years utilizing web technologies to design and develop digital solutions for businesses. I am driven by the goal to always deliver top-notch products ensuring technologies help businesses achieve their goals.
 
-* 🌍  I'm based in Lagos
 * 🖥️  See my portfolio at [rhammy.web.app](http://rhammy.web.app)
-* ✉️  You can contact me at [Afaraeturahman@gmail.com](mailto:Afaraeturahman@gmail.com)
-* 🚀  I'm currently working on [a chatapp](http://chat-app.web.app)
-* 🧠  I'm learning Pinia, a state management for Vue.js
+* ✉️  You can contact me at [olalekanrahman06@gmail.com](mailto:olalekanrahman06@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/rahmanC" target="_blank" rel="noreferrer"><img
