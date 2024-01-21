@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer
 -----------------
 
-I am an Inventive, Creative and Enthusiastic Frontend Engineer with 3+ years utilizing web technologies to design and develop digital solutions for businesses. I am driven by the goal to always deliver top-notch products ensuring technologies help businesses achieve their goals.
+I am an Inventive, Creative and Enthusiastic Frontend Engineer with 4+ years utilizing web technologies to design and develop digital solutions for businesses. I am driven by the goal to always deliver top-notch products ensuring technologies help businesses achieve their goals.
 
 * 🖥️  See my portfolio at [rhammy.web.app](http://rhammy.web.app)
 * ✉️  You can contact me at [olalekanrahman06@gmail.com](mailto:olalekanrahman06@gmail.com)
