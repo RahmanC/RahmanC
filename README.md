@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulrahman
 ============================================================================================================================================
 
-Frontend Engineer
+Software Engineer
 -----------------
 
-I am an Inventive, Creative and Enthusiastic Frontend Engineer with 4+ years utilizing web technologies to design and develop digital solutions for businesses. I am driven by the goal to always deliver top-notch products ensuring technologies help businesses achieve their goals.
+I am an Inventive, Creative and Enthusiastic Frontend Engineer with years of experience utilizing web technologies to design and develop digital solutions for businesses. I am driven by the goal to always deliver top-notch products ensuring technologies help businesses achieve their goals.
 
 * ✉️  You can contact me at [olalekanrahman06@gmail.com](mailto:olalekanrahman06@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
