@@ -14,6 +14,13 @@ src="https://img.shields.io/github/followers/rahmanC?logo=github&style=for-the-b
 src="https://img.shields.io/twitter/follow/_rhammy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+### Stats
+
+<!-- [![Abdulrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahmanC&count_private=true&show_icons=true&theme=onedark)](https://github.com/RahmanC?tab=repositories) |
+-->
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahmanC&layout=compact&theme=onedark)](https://github.com/RahmanC?tab=repositories) -->
+
+
 ### Skills
 
 
